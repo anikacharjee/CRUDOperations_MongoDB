@@ -12,7 +12,17 @@ CRUD Operations in MongoDB Database by using 'MongoDB Compass'
 
 This script(s) connects to MongoDB and inserts a one document/many document(s) into the specified collection.
 
-# Run Retrieve Operation:
+# Run 'Retrieve' Operation:
 `node find.js`
 
 This script retrieves documents from the specified collection based on query criteria.
+
+# Run 'Update' Operation:
+`node update.js`
+
+This script updates documents in the specified collection based on the update criteria.
+
+# Run 'Delete' Operation:
+`node delete.js`
+
+This script deletes documents from the specified collection based on the delete criteria.
