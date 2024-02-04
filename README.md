@@ -26,3 +26,7 @@ This script updates documents in the specified collection based on the update cr
 `node delete.js`
 
 This script deletes documents from the specified collection based on the delete criteria.
+
+# Review Results
+- Check the console output for information about the success of each operation.
+- Optionally, inspect your `MongoDB Compass` to verify the changes.
